@@ -1,12 +1,12 @@
 # Colab 使用簡介
 
-## 關於唯客學院：
+## 關於唯客學院
 
 * [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上教學](https://khpy.teachable.com)
 
-## 課程內容：
+## 課程內容
 
 colab是一個雲端notebook服務，您可以使用它來寫筆記、數學式、Python程式等。colab會自動將您寫完的筆記存在google drive裡面，方便您日後的搜尋，您也可以使用colab將google drive裡面的資料讀出來做分析；使用colab您也可以很容易地跟別人在網路上協作Python程式，並透過github發布自己的筆記、記錄自己的學習歷程。
 
